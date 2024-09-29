@@ -13,7 +13,7 @@ var numbers = {
     0: 0,
     1: 1,
     2: 2,
-    length: 3
+    length: 
 }
 
 console.log('PRUEBA 1 : añadir el numero 3 a numbers')
